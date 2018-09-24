@@ -1,0 +1,11 @@
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\bin\Debug\netcoreapp2.1\Project6d.deps.json
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\bin\Debug\netcoreapp2.1\Project6d.runtimeconfig.json
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\bin\Debug\netcoreapp2.1\Project6d.runtimeconfig.dev.json
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\bin\Debug\netcoreapp2.1\Project6d.dll
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\bin\Debug\netcoreapp2.1\Project6d.pdb
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\obj\Debug\netcoreapp2.1\Project6d.csprojAssemblyReference.cache
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\obj\Debug\netcoreapp2.1\Project6d.csproj.CoreCompileInputs.cache
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\obj\Debug\netcoreapp2.1\Project6d.AssemblyInfoInputs.cache
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\obj\Debug\netcoreapp2.1\Project6d.AssemblyInfo.cs
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\obj\Debug\netcoreapp2.1\Project6d.dll
+C:\Users\Nishant\Desktop\C#_Lab\Project6d\obj\Debug\netcoreapp2.1\Project6d.pdb

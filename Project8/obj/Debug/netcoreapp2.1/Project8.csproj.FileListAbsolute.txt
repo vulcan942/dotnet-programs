@@ -1,0 +1,11 @@
+C:\Users\Nishant\Desktop\C#_Lab\Project8\obj\Debug\netcoreapp2.1\Project8.csprojAssemblyReference.cache
+C:\Users\Nishant\Desktop\C#_Lab\Project8\obj\Debug\netcoreapp2.1\Project8.csproj.CoreCompileInputs.cache
+C:\Users\Nishant\Desktop\C#_Lab\Project8\obj\Debug\netcoreapp2.1\Project8.AssemblyInfoInputs.cache
+C:\Users\Nishant\Desktop\C#_Lab\Project8\obj\Debug\netcoreapp2.1\Project8.AssemblyInfo.cs
+C:\Users\Nishant\Desktop\C#_Lab\Project8\bin\Debug\netcoreapp2.1\Project8.deps.json
+C:\Users\Nishant\Desktop\C#_Lab\Project8\bin\Debug\netcoreapp2.1\Project8.runtimeconfig.json
+C:\Users\Nishant\Desktop\C#_Lab\Project8\bin\Debug\netcoreapp2.1\Project8.runtimeconfig.dev.json
+C:\Users\Nishant\Desktop\C#_Lab\Project8\bin\Debug\netcoreapp2.1\Project8.dll
+C:\Users\Nishant\Desktop\C#_Lab\Project8\bin\Debug\netcoreapp2.1\Project8.pdb
+C:\Users\Nishant\Desktop\C#_Lab\Project8\obj\Debug\netcoreapp2.1\Project8.dll
+C:\Users\Nishant\Desktop\C#_Lab\Project8\obj\Debug\netcoreapp2.1\Project8.pdb
